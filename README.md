@@ -23,7 +23,7 @@ With dynamic slicers for **country, campaign, and date**, this solution allows s
 
 ---
 
-# Project 2: Profit & Loss (P&L) Dashboard  
+# [Project 2: Profit & Loss (P&L) Dashboard](Profit_Loss_Dashboard)  
 
 ![Profit & Loss Dashboard Demo](Profit_Loss_Dashboard/images/Untitled%20design%20%282%29.gif)
 
@@ -39,7 +39,7 @@ With dynamic slicers for **time periods, values, and departments**, this solutio
 
 ---
 
-# Project 3: Healthcare Dashboard  
+# [Project 3: Healthcare Dashboard](Healthcare_Dashboard)  
 
 ![Healthcare Dashboard Demo](Healthcare_Dashboard/images/Healthcare%20gif.gif)  
 
