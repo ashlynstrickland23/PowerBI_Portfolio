@@ -27,8 +27,7 @@ With dynamic slicers for **country, campaign, and date**, this solution allows s
 
 ## 📸 Preview
 
-### Overview Page
-![Google Analytics Dashboard - Overview](Google_Analytics_Dashboard/images/Google%20Analytics%20%281%29.png)
+![Google Analytics Dashboard Demo](Google_Analytics_Dashboard/images/Untitled%20design%20%281%29.gif)  
 
 ---
 
@@ -46,6 +45,4 @@ With dynamic slicers for **time periods, values, and departments**, this solutio
 
 ## 📸 Preview  
 
-### Full P&L Analysis  
-![Profit & Loss Dashboard - Analysis](Profit_Loss_Dashboard/images/PNL1.png)  
-
+![Google Analytics Dashboard Demo](Google_Analytics_Dashboard/images/Untitled%20design%20%281%29.gif)
