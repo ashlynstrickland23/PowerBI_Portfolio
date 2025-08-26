@@ -25,11 +25,12 @@ With dynamic slicers for **country, campaign, and date**, this solution allows s
 
 **Tools Used:** Power BI, DAX, Power Query, Excel  
 
-## 📸 Preview  
+## 📸 Preview
 
 ### Overview Page
-![Google Analytics Dashboard - Overview](images/Google%20Analytics%20%281%29.png)
+![Google Analytics Dashboard - Overview](Google_Analytics_Dashboard/images/Google%20Analytics%20%281%29.png)
 
 ### User Behavior Page
-![Google Analytics Dashboard - User Behavior](images/Google%20Analytics%20%282%29.png)
+![Google Analytics Dashboard - User Behavior](Google_Analytics_Dashboard/images/Google%20Analytics%20%282%29.png)
+
 
