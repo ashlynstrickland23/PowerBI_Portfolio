@@ -12,3 +12,20 @@ I’m Ashlyn Strickland, a data scientist with a Master’s degree in Data Scien
 # What You’ll Find
 
 This repository highlights Power BI dashboards and DAX-driven analytics across finance, operations, sales, and retention. Projects include profit & loss statements, KPI scorecards, and drill-down reports optimized for both desktop and mobile. Each example showcases my ability to combine strong technical skills with business-focused storytelling.
+
+# 🔹 Project 1: Google Analytics Dashboard  
+
+This **interactive Power BI dashboard** visualizes Google Analytics data to track key digital marketing performance metrics. The report provides a clear overview of **sessions, engagement rate, users, new users, bounce rate, total revenue, conversion rate, and purchases**.  
+
+The dashboard is designed with two interactive views:  
+- **Overview Page** → Engagement trends, traffic source breakdown, and geographical analytics.  
+- **User Behavior Page** → Session duration, pages per session, bounce rate by traffic source, and engagement by device type.  
+
+With dynamic slicers for **country, campaign, and date**, this solution allows stakeholders to drill into KPIs and uncover actionable insights for marketing strategy and audience engagement.  
+
+**Tools Used:** Power BI, DAX, Power Query, Excel  
+
+**Preview:**  
+![Google Analytics Dashboard - Overview](https://github.com/your-username/your-repo/raw/main/images/GoogleAnalytics1.png)  
+![Google Analytics Dashboard - User Behavior](https://github.com/your-username/your-repo/raw/main/images/GoogleAnalytics2.png)  
+
