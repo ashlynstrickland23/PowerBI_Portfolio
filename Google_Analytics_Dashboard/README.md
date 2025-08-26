@@ -27,7 +27,7 @@ This project demonstrates a Power BI dashboard built for Google Analytics. It hi
 ## 📸 Preview  
 
 ### Overview Page  
-![Google Analytics Dashboard - Overview](images/Google Analytics (1).png)  
+![Google Analytics Dashboard - Overview](images/GoogleAnalytics1.png)  
 
 ### User Behavior Page  
-![Google Analytics Dashboard - User Behavior](images/Google Analytics (2).png)  
+![Google Analytics Dashboard - User Behavior](images/GoogleAnalytics2.png)  
