@@ -9,6 +9,8 @@ Welcome to my Power BI Portfolio Repository. This collection highlights the dash
 
 # Project 1: Google Analytics Dashboard  
 
+![Google Analytics Dashboard Demo](Google_Analytics_Dashboard/images/Untitled%20design%20%281%29.gif)  
+
 This **interactive Power BI dashboard** visualizes Google Analytics data to track key digital marketing performance metrics. The report provides a clear overview of **sessions, engagement rate, users, new users, bounce rate, total revenue, conversion rate, and purchases**.  
 
 The dashboard is designed with two interactive views:  
@@ -19,13 +21,11 @@ With dynamic slicers for **country, campaign, and date**, this solution allows s
 
 **Tools Used:** Power BI, DAX, Power Query, Excel  
 
-## 📸 Preview
-
-![Google Analytics Dashboard Demo](Google_Analytics_Dashboard/images/Untitled%20design%20%281%29.gif)  
-
 ---
 
 # Project 2: Profit & Loss (P&L) Dashboard  
+
+![Google Analytics Dashboard Demo](Google_Analytics_Dashboard/images/Untitled%20design%20%281%29.gif)
 
 This **interactive Power BI dashboard** visualizes a company’s Profit & Loss statement, providing insights into **Revenue, Net Profit, COGS, Gross Profit, Operating Expenses, and EBIT**.  
 
@@ -37,13 +37,11 @@ With dynamic slicers for **time periods, values, and departments**, this solutio
 
 **Tools Used:** Power BI, DAX, Power Query, Excel  
 
-## 📸 Preview  
-
-![Google Analytics Dashboard Demo](Google_Analytics_Dashboard/images/Untitled%20design%20%281%29.gif)
-
 ---
 
 # Project 3: Healthcare Dashboard  
+
+![Healthcare Dashboard Demo](Healthcare_Dashboard/images/Healthcare%20gif.gif)  
 
 This **interactive Power BI dashboard** was developed for healthcare laboratory performance monitoring. It highlights **compliance rates, turnaround times, test volumes, and critical vs non-critical test counts** across departments.  
 
@@ -55,9 +53,5 @@ The dashboard is designed with multiple views:
 - **Distribution View** → Turnaround time distribution by time buckets.  
 
 **Tools Used:** Power BI, DAX, Power Query, Excel  
-
-## 📸 Preview  
-
-![Healthcare Dashboard Demo](Healthcare_Dashboard/images/Healthcare%20gif.gif)  
 
 👉 Watch the full tutorial here: [Healthcare Dashboard Power BI Tutorial](https://www.youtube.com/watch?v=o4mUfLXUQ5A&t=424s)  
