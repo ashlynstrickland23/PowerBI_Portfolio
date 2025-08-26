@@ -25,7 +25,7 @@ With dynamic slicers for **country, campaign, and date**, this solution allows s
 
 # [Project 2: Profit & Loss (P&L) Dashboard](Profit_Loss_Dashboard)  
 
-![Profit & Loss Dashboard Demo](Profit_Loss_Dashboard/images/PNL%20gif.gif)
+![Profit & Loss Dashboard Demo](Profit_Loss_Dashboard/Profit_Loss_Dashboard/images/PNL%20gif.gif)
 
 This **interactive Power BI dashboard** visualizes a company’s Profit & Loss statement, providing insights into **Revenue, Net Profit, COGS, Gross Profit, Operating Expenses, and EBIT**.  
 
