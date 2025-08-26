@@ -1,5 +1,7 @@
 # Google Analytics Dashboard  
 
+## 🛠 Tools Used  
+
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Power Query](https://img.shields.io/badge/Power%20Query-0E76A8?style=for-the-badge&logo=microsoft&logoColor=white)
@@ -16,14 +18,6 @@
 ---
 
 This project demonstrates a Power BI dashboard built for Google Analytics. It highlights KPIs such as **Sessions, Users, Bounce Rate, Conversion Rate, Revenue, and Engagement Metrics**, giving businesses actionable insights into website traffic and user behavior.  
-
----
-
-## 🛠 Tools Used  
-- Power BI  
-- Power Query  
-- DAX  
-- Excel (mock dataset)  
 
 ---
 
