@@ -14,11 +14,11 @@
 This project demonstrates an **interactive Power BI dashboard** built for healthcare laboratory data. It highlights KPIs such as **compliance rate, turnaround time, test volumes, and critical vs. non-critical test counts**, providing stakeholders with actionable insights into lab performance and operations.  
 
 **Tutorial Video:** This dashboard was developed as part of a **Power BI training tutorial** I created on YouTube to teach others how to build healthcare dashboards step-by-step.  
+
 👉 ** Watch the full YouTube tutorial:**  
 https://www.youtube.com/watch?v=o4mUfLXUQ5A&t=424s  
 
 The dashboard allows filtering by **department, test type, and date range**, making it useful for both **operational efficiency tracking** and **executive reporting**.  
-
 
 ---
 
