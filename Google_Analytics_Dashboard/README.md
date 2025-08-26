@@ -11,7 +11,7 @@
 
 ---
 
-![Google Analytics Dashboard Demo](images/GoogleAnalyticsDemo.gif)
+![Google Analytics Dashboard Demo](images/Untitled%20design%20%281%29.gif)
 
 ---
 
