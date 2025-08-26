@@ -18,22 +18,20 @@
 
 ## 📊 Description  
 
-This project demonstrates an interactive **Power BI dashboard** built for Google Analytics.  
-It highlights KPIs such as **Sessions, Users, Bounce Rate, Conversion Rate, Revenue, and Engagement Metrics**,  
-with drill-downs by **country, campaign, and date**. Using a **mock analytics dataset**, the dashboard showcases  
-skills in **data modeling, DAX, Power Query, and visualization design**, helping businesses uncover insights into  
-website performance and user behavior.  
+This project demonstrates an interactive **Power BI dashboard** built for Google Analytics. It highlights KPIs such as **Sessions, Users, Bounce Rate, Conversion Rate, Revenue, and Engagement Metrics**, with drill-downs by **country, campaign, and date**. Using a **mock analytics dataset**, the dashboard showcases skills in **data modeling, DAX, Power Query, and visualization design**, helping businesses uncover insights into website performance and user behavior.  
 
 ---
 
 ## 📂 Dataset  
-- Mock dataset stored in **Excel** and connected through **Power Query**.  
+
+- Dataset stored in **Excel** and connected through **Power Query**.  
 - Processed with **SQL queries** for structured transformations.  
 - Final model built in **Power BI** with calculated columns and measures (DAX).  
 
 ---
 
 ## ⭐ Features  
+
 - **Interactive Data Visualization** – KPIs, charts, and maps.  
 - **Filters & Slicers** – Drill down by country, campaign, and date.  
 - **User Behavior Analysis** – Track session duration, bounce rate, engagement.  
@@ -55,14 +53,18 @@ website performance and user behavior.
 ## 📁 Project Structure  
 
 ├── Google_Analytics_Dashboard
+
 │ ├── images <- Screenshots & GIF previews
+
 │ ├── pbix <- Power BI project file
+
 │ └── README.md <- Documentation
 
 
 ---
 
 ## 👩‍💻 Author  
+
 **Ashlyn Strickland**  
 - 🎓 Master’s Degree in Data Science  
 - 📊 Certified Data Scientist | Power BI, Tableau, Excel, Python, R  
