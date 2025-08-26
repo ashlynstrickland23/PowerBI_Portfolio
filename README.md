@@ -30,5 +30,22 @@ With dynamic slicers for **country, campaign, and date**, this solution allows s
 ### Overview Page
 ![Google Analytics Dashboard - Overview](Google_Analytics_Dashboard/images/Google%20Analytics%20%281%29.png)
 
+---
 
+# Project 2: Profit & Loss (P&L) Dashboard  
+
+This **interactive Power BI dashboard** visualizes a company’s Profit & Loss statement, providing insights into **Revenue, Net Profit, COGS, Gross Profit, Operating Expenses, and EBIT**.  
+
+The dashboard is designed with two interactive views:  
+- **Full P&L Analysis** → Monthly and quarterly trends with waterfall and bar charts.  
+- **Division Drill-Down** → Filterable breakdown of revenue and profit across divisions.  
+
+With dynamic slicers for **time periods, values, and departments**, this solution helps stakeholders monitor financial performance and identify trends at both a high level and detailed view.  
+
+**Tools Used:** Power BI, DAX, Power Query, Excel  
+
+## 📸 Preview  
+
+### Full P&L Analysis  
+![Profit & Loss Dashboard - Analysis](Profit_Loss_Dashboard/images/PNL1.png)  
 
