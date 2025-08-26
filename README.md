@@ -46,3 +46,24 @@ With dynamic slicers for **time periods, values, and departments**, this solutio
 ## 📸 Preview  
 
 ![Google Analytics Dashboard Demo](Google_Analytics_Dashboard/images/Untitled%20design%20%281%29.gif)
+
+---
+
+# Project 3: Healthcare Dashboard  
+
+This **interactive Power BI dashboard** was developed for healthcare laboratory performance monitoring. It highlights **compliance rates, turnaround times, test volumes, and critical vs non-critical test counts** across departments.  
+
+What makes this project unique is that it was also taught as a **step-by-step Power BI tutorial on YouTube**, showcasing not just my dashboard development skills but also my role as a **Power BI instructor**.  
+
+The dashboard is designed with multiple views:  
+- **KPI Cards** → Average Compliance Rate, Average Turnaround Time.  
+- **Department Analysis** → Critical vs Non-Critical tests, test volumes.  
+- **Distribution View** → Turnaround time distribution by time buckets.  
+
+**Tools Used:** Power BI, DAX, Power Query, Excel  
+
+## 📸 Preview  
+
+![Healthcare Dashboard Demo](Healthcare_Dashboard/images/Healthcare%20gif.gif)  
+
+👉 Watch the full tutorial here: [Healthcare Dashboard Power BI Tutorial](https://www.youtube.com/watch?v=o4mUfLXUQ5A&t=424s)  
