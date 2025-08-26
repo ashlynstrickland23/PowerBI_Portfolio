@@ -11,43 +11,24 @@
 
 ---
 
-## 📌 Overview  
-This **interactive Power BI dashboard** visualizes Google Analytics data to track key digital marketing KPIs. It provides stakeholders with a clear view of **sessions, engagement rate, bounce rate, new users, total revenue, conversion rate, and purchases**.  
 
-The dashboard is designed with two interactive pages:  
-- **Overview Page** → Engagement trends, traffic source breakdown, and geographical analytics.  
-- **User Behavior Page** → Session duration, pages per session, device type performance, and bounce rate trends.  
+This project demonstrates a Power BI dashboard built for Google Analytics.  
+It highlights KPIs such as **Sessions, Users, Bounce Rate, Conversion Rate, Revenue, and Engagement Metrics**, giving businesses actionable insights into website traffic and user behavior.  
+
+---
+
+## 🛠 Tools Used  
+- Power BI  
+- Power Query  
+- DAX  
+- Excel (mock dataset)  
 
 ---
 
 ## 📸 Preview  
 
 ### Overview Page  
-![Google Analytics Dashboard - Overview](../images/GoogleAnalytics1.png)  
+![Google Analytics Dashboard - Overview](images/Google Analytics (1).png)  
 
 ### User Behavior Page  
-![Google Analytics Dashboard - User Behavior](../images/GoogleAnalytics2.png)  
-
----
-
-## 🛠 Tools & Technologies  
-- Power BI  
-- Power Query  
-- DAX  
-- Microsoft Excel  
-- SQL (for data preprocessing)  
-- Azure (cloud-based integration)  
-- SharePoint (collaboration & sharing)  
-
----
-
-## 🎯 Value  
-This dashboard helps **marketing and business teams**:  
-- Identify high-performing channels  
-- Monitor user engagement trends  
-- Reduce bounce rates  
-- Optimize **digital marketing ROI**  
-
----
-
-## 📂 Project Structure  
+![Google Analytics Dashboard - User Behavior](images/Google Analytics (2).png)  
