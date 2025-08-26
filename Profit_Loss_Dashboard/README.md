@@ -12,7 +12,7 @@
 
 ---
 
-![P&L Dashboard Demo](images/PNL_Demo.gif)
+![Profit & Loss Dashboard Demo](images/Untitled%20design%20%282%29.gif)
 
 ---
 
@@ -42,9 +42,6 @@ This project demonstrates an interactive **Power BI Profit & Loss Dashboard**. I
 
 ## 📸 Preview  
 
-### Overview Page  
-![Profit & Loss Dashboard - Overview](images/PNL.png)  
-
 ### Full P&L Analysis  
 ![Profit & Loss Dashboard - Analysis](images/PNL1.png)  
 
@@ -56,8 +53,11 @@ This project demonstrates an interactive **Power BI Profit & Loss Dashboard**. I
 ## 📁 Project Structure  
 
 ├── Profit_Loss_Dashboard  
+
 │   ├── images        <- Screenshots & GIF previews  
+
 │   ├── pbix          <- Power BI project file  
+
 │   └── README.md     <- Documentation  
 
 ---
