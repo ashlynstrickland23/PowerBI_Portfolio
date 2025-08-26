@@ -12,8 +12,7 @@
 ---
 
 
-This project demonstrates a Power BI dashboard built for Google Analytics.  
-It highlights KPIs such as **Sessions, Users, Bounce Rate, Conversion Rate, Revenue, and Engagement Metrics**, giving businesses actionable insights into website traffic and user behavior.  
+This project demonstrates a Power BI dashboard built for Google Analytics. It highlights KPIs such as **Sessions, Users, Bounce Rate, Conversion Rate, Revenue, and Engagement Metrics**, giving businesses actionable insights into website traffic and user behavior.  
 
 ---
 
