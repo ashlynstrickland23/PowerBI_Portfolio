@@ -65,7 +65,6 @@ This project demonstrates an interactive **Power BI dashboard** built for Google
 - 🎓 Master’s Degree in Data Science  
 - 📊 Certified Data Scientist | Power BI, Tableau, Excel, Python, R  
 - 🌐 [datadrivendashboards.com](http://datadrivendashboards.com)  
-
-[![Return to Main Portfolio](https://img.shields.io/badge/⬅️-Return%20to%20Portfolio-blue?style=for-the-badge)](../)
 - 💼 Open to collaborations in **business intelligence & analytics**  
 
+[![Return to Main Portfolio](https://img.shields.io/badge/⬅️-Return%20to%20Portfolio-blue?style=for-the-badge)](../)
