@@ -55,3 +55,21 @@ The dashboard is designed with multiple views:
 **Tools Used:** Power BI, DAX, Power Query, Excel  
 
 👉 Watch the full tutorial here: [Healthcare Dashboard Power BI Tutorial](https://www.youtube.com/watch?v=o4mUfLXUQ5A&t=424s)  
+
+---
+
+# [Project 4: Application Tracker Dashboard](Application_Tracker_Dashboard)  
+
+![Application Tracker Dashboard Demo](Application_Tracker_Dashboard/images/JobTracker.gif)  
+
+This **interactive Power BI dashboard** was designed to track and manage **job applications** efficiently. It helps job seekers and recruiters monitor applications across multiple companies, roles, and hiring stages — from submission through interviews to offers.  
+
+The dashboard provides insights into:  
+- **Applications by Status** → Submitted, Interview, Offer, Rejected.  
+- **Applications by Company/Role** → Track where efforts are most concentrated.  
+- **Timeline View** → Monitor progress of applications over time.  
+
+**Tools Used:** Power BI, Excel, Power Query, DAX  
+
+---
+
