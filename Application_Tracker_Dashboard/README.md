@@ -38,3 +38,20 @@ This project demonstrates how Power BI can be applied to **personal productivity
 ![Application Tracker Dashboard - Main](./images/Screenshot%202025-06-26%20152121.png)
 
 ![Application Tracker Dashboard - Detail](./images/Screenshot%202025-06-26%20154321.png)  
+
+
+## 📂 Project Structure  
+
+│── images <- Screenshots & GIF previews
+│ ├── JobTracker.gif
+│ ├── Screenshot 2025-06-26 152121.png
+│ └── Screenshot 2025-06-26 154321.png
+│
+└── README.md <- Documentation
+
+## 👩‍💻 Author  
+**Ashlyn Strickland**  
+- 🎓 Master’s Degree in Data Science  
+- 📊 Certified Data Scientist | Power BI, Tableau, Excel, Python, R  
+- 🌐 [datadrivendashboards.com](http://datadrivendashboards.com)  
+- 💼 Open to collaborations in **business intelligence & analytics**
