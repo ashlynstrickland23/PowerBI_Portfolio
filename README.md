@@ -74,7 +74,7 @@ The dashboard provides insights into:
 
 # [Project 5: Sales Dashboard](Sales_Dashboard)  
 
-![Sales Dashboard Demo](Sales_Dashboard/images/SalesGif)  
+![Sales Dashboard Demo](Sales_Dashboard/images/SalesGif.gif)  
 
 This **interactive Power BI dashboard** visualizes sales performance data, tracking **Revenue, Orders, Profit, and Sales Trends** across products, categories, and regions.  
 
