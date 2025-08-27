@@ -3,6 +3,10 @@
 ## 🛠 Tools Used  
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)  ![Power Query](https://img.shields.io/badge/Power%20Query-0E76A8?style=for-the-badge&logo=microsoft&logoColor=white)  ![DAX](https://img.shields.io/badge/DAX-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)  
 
+## 💡 Skills Demonstrated  
+
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-8A2BE2?style=for-the-badge&logo=tableau&logoColor=white)  ![Data Modeling](https://img.shields.io/badge/Data%20Modeling-FF7F50?style=for-the-badge&logo=databricks&logoColor=white)  ![KPI Tracking](https://img.shields.io/badge/KPI%20Tracking-2E8B57?style=for-the-badge&logo=googleanalytics&logoColor=white)  ![Process Automation](https://img.shields.io/badge/Process%20Automation-FF6347?style=for-the-badge&logo=microsoftpowerautomate&logoColor=white)  ![Recruitment Analytics](https://img.shields.io/badge/Recruitment%20Analytics-1E90FF?style=for-the-badge&logo=workplace&logoColor=white)  
+
 ---
 
 ![Application Tracker Dashboard Demo](./images/JobTracker.gif)
