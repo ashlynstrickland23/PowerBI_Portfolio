@@ -26,8 +26,6 @@ The dashboard is designed with two interactive views:
 
 With dynamic slicers for **country, campaign, and date**, this solution allows stakeholders to drill into KPIs and uncover actionable insights for marketing strategy and audience engagement.  
 
-**Tools Used:** Power BI, DAX, Power Query, Excel  
-
 ---
 
 # [Project 2: Profit & Loss (P&L) Dashboard](Profit_Loss_Dashboard)  
@@ -41,8 +39,6 @@ The dashboard is designed with two interactive views:
 - **Division Drill-Down** → Filterable breakdown of revenue and profit across divisions.  
 
 With dynamic slicers for **time periods, values, and departments**, this solution helps stakeholders monitor financial performance and identify trends at both a high level and detailed view.  
-
-**Tools Used:** Power BI, DAX, Power Query, Excel  
 
 ---
 
@@ -59,8 +55,6 @@ The dashboard is designed with multiple views:
 - **Department Analysis** → Critical vs Non-Critical tests, test volumes.  
 - **Distribution View** → Turnaround time distribution by time buckets.  
 
-**Tools Used:** Power BI, DAX, Power Query, Excel  
-
 👉 Watch the full tutorial here: [Healthcare Dashboard Power BI Tutorial](https://www.youtube.com/watch?v=o4mUfLXUQ5A&t=424s)  
 
 ---
@@ -76,7 +70,18 @@ The dashboard provides insights into:
 - **Applications by Company/Role** → Track where efforts are most concentrated.  
 - **Timeline View** → Monitor progress of applications over time.  
 
-**Tools Used:** Power BI, Excel, Power Query, DAX  
-
 ---
 
+# [Project 5: Sales Dashboard](Sales_Dashboard)  
+
+![Sales Dashboard Demo](Sales_Dashboard/images/Sales.gif)  
+
+This **interactive Power BI dashboard** visualizes sales performance data, tracking **Revenue, Orders, Profit, and Sales Trends** across products, categories, and regions.  
+
+The dashboard is designed with two interactive views:  
+- **Sales Overview** → Revenue and order trends with KPIs and charts.  
+- **Category & Region Analysis** → Drilldowns by product category, region, and time period.  
+
+With dynamic slicers for **date, category, and region**, this solution helps stakeholders monitor overall sales performance while identifying key growth opportunities.  
+
+---
