@@ -61,6 +61,7 @@ The dashboard is designed with multiple views:
 
 🔗 [Click here to view the full project details →](Healthcare_Dashboard)
 
+
 👉 Watch the full tutorial here: [Healthcare Dashboard Power BI Tutorial](https://www.youtube.com/watch?v=o4mUfLXUQ5A&t=424s)  
 
 ---
