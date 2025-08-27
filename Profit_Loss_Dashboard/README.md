@@ -12,7 +12,7 @@
 
 ---
 
-![Profit & Loss Dashboard Demo](Profit_Loss_Dashboard/images/Untitled%20design%20%282%29.gif)
+![Profit & Loss Dashboard Demo](Profit_Loss_Dashboard/Profit_Loss_Dashboard/images/PNL%20gif.gif)
 
 ---
 
