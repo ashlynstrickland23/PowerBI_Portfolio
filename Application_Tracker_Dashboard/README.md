@@ -5,7 +5,7 @@
 
 ---
 
-![Application Tracker Dashboard Demo](Application_Tracker_Dashboard/images/JobTracker.gif)
+![Application Tracker Dashboard Demo](./images/JobTracker.gif)
 
 ---
 
