@@ -84,4 +84,5 @@ The dashboard is designed with two interactive views:
 
 With dynamic slicers for **date, category, and region**, this solution helps stakeholders monitor overall sales performance while identifying key growth opportunities.  
 
+🔗 [Click here to view the full project details →](Sales_Dashboard)
 ---
