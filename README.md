@@ -26,6 +26,8 @@ The dashboard is designed with two interactive views:
 
 With dynamic slicers for **country, campaign, and date**, this solution allows stakeholders to drill into KPIs and uncover actionable insights for marketing strategy and audience engagement.  
 
+🔗 [Click here to view the full project details →](Google_Analytics_Dashboard)
+
 ---
 
 # [Project 2: Profit & Loss (P&L) Dashboard](Profit_Loss_Dashboard)  
@@ -39,6 +41,8 @@ The dashboard is designed with two interactive views:
 - **Division Drill-Down** → Filterable breakdown of revenue and profit across divisions.  
 
 With dynamic slicers for **time periods, values, and departments**, this solution helps stakeholders monitor financial performance and identify trends at both a high level and detailed view.  
+
+🔗 [Click here to view the full project details →](Profit_Loss_Dashboard)
 
 ---
 
@@ -55,6 +59,8 @@ The dashboard is designed with multiple views:
 - **Department Analysis** → Critical vs Non-Critical tests, test volumes.  
 - **Distribution View** → Turnaround time distribution by time buckets.  
 
+🔗 [Click here to view the full project details →](Healthcare_Dashboard)
+
 👉 Watch the full tutorial here: [Healthcare Dashboard Power BI Tutorial](https://www.youtube.com/watch?v=o4mUfLXUQ5A&t=424s)  
 
 ---
@@ -69,6 +75,8 @@ The dashboard provides insights into:
 - **Applications by Status** → Submitted, Interview, Offer, Rejected.  
 - **Applications by Company/Role** → Track where efforts are most concentrated.  
 - **Timeline View** → Monitor progress of applications over time.  
+
+🔗 [Click here to view the full project details →](Application_Tracker_Dashboard)
 
 ---
 
