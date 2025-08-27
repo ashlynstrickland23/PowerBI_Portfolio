@@ -43,9 +43,13 @@ This project demonstrates how Power BI can be applied to **personal productivity
 ## 📂 Project Structure  
 
 │── images <- Screenshots & GIF previews
+
 │ ├── JobTracker.gif
+
 │ ├── Screenshot 2025-06-26 152121.png
+
 │ └── Screenshot 2025-06-26 154321.png
+
 │
 └── README.md <- Documentation
 
