@@ -67,4 +67,8 @@ This project demonstrates an interactive **Power BI dashboard** built for Google
 - 🌐 [datadrivendashboards.com](http://datadrivendashboards.com)  
 - 💼 Open to collaborations in **business intelligence & analytics**  
 
-[![Return to Main Portfolio](https://img.shields.io/badge/⬅%EF%B8%8F-Return%20to%20Portfolio-000000?style=for-the-badge&logoColor=white&labelColor=000000&color=000000)](../)
+<p align="center">
+  <a href="../" style="text-decoration:none; font-size:22px;">
+    ⬅️ <b>RETURN TO PORTFOLIO</b>
+  </a>
+</p>
