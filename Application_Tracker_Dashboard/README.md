@@ -35,4 +35,4 @@ This project demonstrates how Power BI can be applied to **personal productivity
 ## 📸 Preview  
 
 ### Dashboard View  
-![Application Tracker Dashboard - Main](./images/Screenshot%202025
+![Application Tracker Dashboard - Main](./images/Screenshot%202025-06-26%20152121.png)
