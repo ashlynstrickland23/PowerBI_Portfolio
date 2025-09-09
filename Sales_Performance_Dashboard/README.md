@@ -28,10 +28,10 @@ This dashboard empowers decision-makers with actionable insights into **revenue 
 ## 📸 Preview  
 
 ### Overview Page  
-![Sales Dashboard - Overview](images/image.png)  
+![Sales Dashboard - Drilldown](images/image%20(1).png)  
 
 ### Drilldown Page  
-![Sales Dashboard - Drilldown](images/image%20(1).png)  
+![Sales Dashboard - Overview](images/image.png)
 
 ---
 
@@ -51,6 +51,7 @@ This dashboard empowers decision-makers with actionable insights into **revenue 
 - 📊 Certified Data Scientist | Power BI, Tableau, Excel, Python, R  
 - 🌐 [datadrivendashboards.com](http://datadrivendashboards.com)  
 - 💼 Open to collaborations in **business intelligence & analytics**  
+
 
 <p align="center">
   <a href="../" style="text-decoration:none; font-size:22px;">
