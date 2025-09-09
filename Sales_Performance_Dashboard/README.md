@@ -14,6 +14,7 @@
 
 
 This **professional Power BI Sales Dashboard** highlights:  
+
 ✔️ **Global sales performance** by country, region, and city  
 ✔️ **Profitability analysis** by category & sub-category  
 ✔️ **Top-performing cities** and drill-through insights  
