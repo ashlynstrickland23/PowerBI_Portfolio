@@ -14,19 +14,21 @@ Welcome to my Power BI Portfolio Repository. This collection highlights the dash
 
 ---
 
-# [Project 1: Sales Dashboard](Sales_Dashboard)  
+# [Project 1: Professional Sales Dashboard](Sales_Performance_Dashboard)  
 
-![Sales Dashboard Demo](Sales_Dashboard/images/SalesGif.gif)  
+![Professional Sales Dashboard Demo](Sales_Performance_Dashboard/images/Untitled%20design%20(6).gif)  
 
-This **interactive Power BI dashboard** visualizes sales performance data, tracking **Revenue, Orders, Profit, and Sales Trends** across products, categories, and regions.  
+This **professional Power BI sales dashboard** provides insights into **global sales, profit, and performance trends** across multiple dimensions.  
 
-The dashboard is designed with two interactive views:  
-- **Sales Overview** → Revenue and order trends with KPIs and charts.  
-- **Category & Region Analysis** → Drilldowns by product category, region, and time period.  
+The dashboard highlights:  
+- **Global Sales by Country, Region, and City**  
+- **Profitability by Product Category & Sub-Category**  
+- **Top-Performing Cities and Product Drill-Throughs**  
+- **Sales vs Profit Trends Over Time**  
 
-With dynamic slicers for **date, category, and region**, this solution helps stakeholders monitor overall sales performance while identifying key growth opportunities.  
+Dashboards like this don’t just look good — they empower leaders to make **data-driven business decisions**.  
 
-🔗 [Click here to view the full project details →](Sales_Dashboard)  
+🔗 [Click here to view the full project details →](Sales_Performance_Dashboard)  
 
 ---
 
@@ -93,5 +95,21 @@ The dashboard provides insights into:  
 - **Timeline View** → Monitor progress of applications over time.  
 
 🔗 [Click here to view the full project details →](Application_Tracker_Dashboard)  
+
+---
+
+# [Project 6: Sales Dashboard](Sales_Dashboard)  
+
+![Sales Dashboard Demo](Sales_Dashboard/images/SalesGif.gif)  
+
+This **interactive Power BI dashboard** visualizes sales performance data, tracking **Revenue, Orders, Profit, and Sales Trends** across products, categories, and regions.  
+
+The dashboard is designed with two interactive views:  
+- **Sales Overview** → Revenue and order trends with KPIs and charts.  
+- **Category & Region Analysis** → Drilldowns by product category, region, and time period.  
+
+With dynamic slicers for **date, category, and region**, this solution helps stakeholders monitor overall sales performance while identifying key growth opportunities.  
+
+🔗 [Click here to view the full project details →](Sales_Dashboard)  
 
 ---
