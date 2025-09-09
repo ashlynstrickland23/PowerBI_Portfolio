@@ -6,7 +6,8 @@
 ---
 
 ## 📊 Dashboard Preview  
-![Sales Performance Dashboard Demo](./images/SalesGif.gif)  
+
+![Sales Performance Dashboard Demo](./images/Untitled%20design%20(6).gif)
 
 ---
 
