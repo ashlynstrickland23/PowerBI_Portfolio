@@ -44,13 +44,6 @@ The dashboard allows filtering by **department, test type, and date range**, mak
 
 ---
 
-## 📸 Preview  
-
-### Full Dashboard  
-![Healthcare Dashboard Screenshot](images/Screenshot%202025-06-09%20064646.png)  
-
----
-
 ## 📁 Project Structure  
 
 Healthcare_Dashboard  
